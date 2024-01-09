@@ -25,6 +25,7 @@
     content="I'm Vivek Shukla, a full-stack Software Engineer with a passion for problem solving and a love for learning."
     itemprop=description>
 <link href=css/main.css hreflang=en-us rel=stylesheet>
+
 <div id=site>
     <div class=switch-wrapper>
         <div class=sun></div>
@@ -153,6 +154,83 @@
         <div class="section__content">
             <div class="project">
                 <div class="time-place">
+                    <div class="project__name"><a href="https://lukas.vshukla.com/" rel="noreferrer" target="_blank"
+                            class="arrow-link">Lukas</a></div>
+                    <div class="project__time">December 2023 - January 2024</div>
+                </div>
+                <div class="project__position">Principal Developer</div>
+                <p>Lukas is an innovative drone inspection automation software designed to streamline and enhance the
+                    process of aerial
+                    inspections. Leveraging cutting-edge technologies such as NextJS, Prisma, Supabase DB(Postgres),
+                    Clerk Auth, DaisyUI,
+                    and FlytBase APIs, Lukas provides a robust platform for efficient and intelligent drone inspections.
+                <ol>
+                    <li><strong>NextJS Framework:</strong> Built on the NextJS framework, Lukas ensures a fast,
+                        responsive, and
+                        SEO-friendly web application for
+                        an optimal user experience.</li>
+                    <li><strong>Prisma Database Integration:</strong> Utilizing Prisma as the database ORM, Lukas
+                        ensures reliable and
+                        efficient data storage and
+                        retrieval.</li>
+                    <li><strong>Supabase for Database:</strong> Lukas leverages Supabase Postgres for a scalable and
+                        secure database
+                        infrastructure, providing
+                        a seamless experience for handling large datasets.</li>
+                    <li><strong>Clerk for Authentication:</strong> Clerk Auth, the authentication backbone of Lukas,
+                        brings advanced
+                        security and user management
+                        capabilities to the platform. With Clerk Auth, user authentication and authorization are handled
+                        with utmost precision,
+                        ensuring only authorized personnel access sensitive drone inspection data.
+                    </li>
+                    <li><strong>DaisyUI for UI Components:</strong> The user interface of Lukas is developed using
+                        DaisyUI, a modern and
+                        customizable UI
+                        component library powered by TailwindCSS, ensuring a sleek and user-friendly design.</li>
+                    <li><strong>FlytBase APIs Integration:</strong> By integrating FlytBase APIs, Fly connects
+                        seamlessly with drone
+                        hardware, allowing for
+                        real-time data exchange and control during inspections.</li>
+                </ol>
+                </p>
+
+
+            </div>
+            <div class="project">
+                <div class="time-place">
+                    <div class="project__name"><a href="https://mood.vshukla.com/" rel="noreferrer" target="_blank"
+                            class="arrow-link">Mood</a></div>
+                    <div class="project__time">November 2023</div>
+                </div>
+                <div class="project__position">Principal Developer</div>
+                <p>This web application utilizes OpenAI GPT APIs to track and analyze your mood based on journal
+                    entries. It provides
+                    detailed insights, including mood, subject, negativity, summary, color, and sentiment score.
+                    Additionally, users can
+                    query the web app, asking questions like "How have I been feeling for the past 3 days?" and receive
+                    insightful
+                    responses.
+                <ol>
+                    <li><strong>NextJS:</strong> The foundation of the web app, providing a fast and efficient React
+                        framework.</li>
+                    <li><strong>Clerk for Auth:</strong> Enables secure and seamless authentication for users.</li>
+                    <li><strong>Tailwind:</strong> A utility-first CSS framework for styling the app with ease.</li>
+                    <li><strong>PlanetScale for DB:</strong> Utilized for database management, ensuring scalability and
+                        reliability.</li>
+
+                    <li><strong>Prisma ORM:</strong> A powerful tool for database access and manipulation, enhancing
+                        data interaction.
+                    </li>
+                    <li><strong>OpenAI API:</strong> Harnesses the capabilities of OpenAI GPT APIs for mood analysis and
+                        responses.</li>
+                </ol>
+                </p>
+
+
+            </div>
+            <div class="project">
+                <div class="time-place">
                     <div class="project__name"><a href="https://sublevel.onrender.com/" rel="noreferrer" target="_blank"
                             class="arrow-link">SubLevel</a></div>
                     <div class="project__time">January 2023 - February 2023</div>
@@ -223,7 +301,7 @@
     <footer class=footer>
         <div class=footer__copyright>
             <div class=bottom><span>Vivek Shukla</span> <img alt=emoji class=emoji src=img/emojis/rockon.png>
-                <span>2023</span>
+                <span id="currentYear"></span>
             </div>
             <span style="font-size: 12px;">Code Stolen from <a href="https://shivam.info" target="_blank"
                     style="color: #007bff;">Shivam Sharma</a></span>
@@ -240,6 +318,10 @@
 
     </footer>
 </div>
+<script>
+    var currentYear = new Date().getFullYear();
+    document.getElementById('currentYear').textContent = currentYear;
+</script>
 <script charset=utf-8 src=js/main.js></script>
 
 </html>
