@@ -1,5 +1,4 @@
 # Hugo default output directory
-/public/
 
 # Hugo generated resources
 /resources/_gen/
