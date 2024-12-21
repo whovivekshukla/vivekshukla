@@ -1,0 +1,49 @@
+baseURL: https://beta.vshukla.com/
+languageCode: en-us
+title: vivek shukla
+theme: "PaperMod"
+
+params:
+  title: vivek shukla
+  defaultTheme: auto
+  homeInfoParams:
+    Title: vivek shukla
+    Content: i’m a software engineer with interests in computer programming, machine learning, artificial intelligence, green energy, physics, economics, finance, business, philosophy, and more
+  env: production
+
+  socialIcons:
+    - name: "x"
+      url: "https://x.com/whovivekshukla"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/whovivekshukla"
+    - name: "github"
+      url: "https://github.com/whovivekshukla"
+    - name: "email"
+      url: "mailto:vivekshuklahere@gmail.com"
+
+  ShowReadingTime: true
+  ShowToc: true
+
+  copyright: " 2024 vivek shukla"
+
+  label:
+    text: "home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
+    - identifier: search
+      name: search
+      url: /search
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
