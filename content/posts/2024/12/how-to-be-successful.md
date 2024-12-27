@@ -4,6 +4,7 @@ layout: "blog"
 # url: "/new-website"
 description: "let's go"
 date: "2024-12-21"
+draft: true
 ---
 
 I'll come straight to the point: there are only a few things that you can do that will massively impact your chances of being successful.
