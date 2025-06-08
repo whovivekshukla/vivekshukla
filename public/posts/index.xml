@@ -6,6 +6,7 @@
     <description>Recent content in Posts on vivek shukla</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,6 +17,11 @@
       <description>-</description>
     </item>
     <item>
+=======
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+>>>>>>> 288b916729b72debc448454ccc45adb08a1fda9c
       <title>on perspective</title>
       <link>http://localhost:1313/posts/2025/01/on-perspective/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
