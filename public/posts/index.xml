@@ -2,38 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on vivek shukla</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://vshukla.com/posts/</link>
     <description>Recent content in Posts on vivek shukla</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vshukla.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>my trip to aurangabad!</title>
-      <link>http://localhost:1313/posts/2025/06/my-trip-to-aurangabad/</link>
+      <link>https://vshukla.com/posts/2025/06/my-trip-to-aurangabad/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/my-trip-to-aurangabad/</guid>
+      <guid>https://vshukla.com/posts/2025/06/my-trip-to-aurangabad/</guid>
       <description>-</description>
     </item>
     <item>
-=======
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
->>>>>>> 288b916729b72debc448454ccc45adb08a1fda9c
       <title>on perspective</title>
-      <link>http://localhost:1313/posts/2025/01/on-perspective/</link>
+      <link>https://vshukla.com/posts/2025/01/on-perspective/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/01/on-perspective/</guid>
+      <guid>https://vshukla.com/posts/2025/01/on-perspective/</guid>
       <description>my reflections</description>
-    </item>
-    <item>
-      <title>how to be successful?</title>
-      <link>http://localhost:1313/posts/2024/12/how-to-be-successful/</link>
-      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/how-to-be-successful/</guid>
-      <description>let&amp;#39;s go</description>
     </item>
   </channel>
 </rss>

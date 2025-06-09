@@ -2,41 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/posts/2025/06/my-trip-to-aurangabad/</loc>
+    <loc>https://vshukla.com/posts/2025/06/my-trip-to-aurangabad/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://vshukla.com/posts/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vshukla.com/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/on-perspective/</loc>
+    <loc>https://vshukla.com/posts/2025/01/on-perspective/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
   </url><url>
-=======
-    <loc>http://localhost:1313/posts/2025/01/on-perspective/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <loc>https://vshukla.com/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <loc>https://vshukla.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <loc>https://vshukla.com/categories/</loc>
   </url><url>
->>>>>>> 288b916729b72debc448454ccc45adb08a1fda9c
-    <loc>http://localhost:1313/posts/2024/12/how-to-be-successful/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <loc>https://vshukla.com/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://vshukla.com/tags/</loc>
   </url>
 </urlset>

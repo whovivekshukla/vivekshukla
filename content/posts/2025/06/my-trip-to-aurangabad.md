@@ -34,3 +34,8 @@ Alright, I went back to the bus stand, got the bus, reached Ellora caves, walked
 {{< figure src="prasad.jpeg" alt="Prasad at Grishneshwar Temple" width="400x" >}}
 
 I got out and was waiting for the bus to go back to the city and was walking on the road, when those same students were coming on the scooter and offered me a ride. They thought I was not finding a transportation, so they offered to give me a ride! I'm glad they did, but then there was another bus coming which was going to the city, so I thanked them, got off and quickly caught the bus! Since I had spent significant amount of time at the temple, it was already 3 pm. Since it was Sunday and I had to go back to work the next day, I thought it would be best to end this trip right here and go back to Pune! I went to the hostel, packed everything up, checked out and went back to the same bus station and got a bus back to my city!
+
+---
+
+(first draft written by me,
+reviewed by clade for grammatical mistakes and better articulation!)
